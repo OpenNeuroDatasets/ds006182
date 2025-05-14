@@ -1,1 +1,2 @@
-4ed5b5e6-e1fb-4a21-8c79-930ba7f29086 autoenable=true name=openneuro type=external externaltype=openneuro encryption=none url=https://openneuro.org/git/0/ds006182
+4ed5b5e6-e1fb-4a21-8c79-930ba7f29086 autoenable=true encryption=none externaltype=openneuro name=openneuro type=external url=https://openneuro.org/git/0/ds006182
+89b49243-2332-4eb1-9056-a4a6e6d242b1 autoenable=true bucket=openneuro.org datacenter=US encryption=none exporttree=yes fileprefix=ds006182/ host=s3.amazonaws.com name=s3-PUBLIC partsize=1GiB port=80 public=no publicurl=https://s3.amazonaws.com/openneuro.org storageclass=STANDARD type=S3 versioning=yes timestamp=1747238638s
